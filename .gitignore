@@ -1,0 +1,4 @@
+# class 파일은 제외
+*.java
+
+index.txt
